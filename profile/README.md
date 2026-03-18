@@ -10,7 +10,6 @@ Tawiza connects 20+ French government open data APIs with a cognitive AI agent (
 |------------|-------------|
 | [tawiza](https://github.com/tawiza/tawiza) | Core platform — Backend (FastAPI) + Frontend (Next.js) + TAJINE agent |
 | [tawiza-website](https://github.com/tawiza/tawiza-website) | Official website (tawiza.fr) |
-| [tawiza-landing](https://github.com/tawiza/tawiza-landing) | Landing page |
 
 ## Get Involved
 
